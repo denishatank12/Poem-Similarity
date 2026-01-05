@@ -1,7 +1,8 @@
 # Poem-Similarity
  Use this notebookLinks to an external site. as a template and modify as you need to.
+
 Rubric:
-Purpose of this segment of the NLP course is to fine tune a model that represents yuor poet.
+Purpose of this segment of the NLP course is to fine tune a model that represents your poet.
 
 1. Pick one poet
 2. Scrape 30-40 poems from this poet
